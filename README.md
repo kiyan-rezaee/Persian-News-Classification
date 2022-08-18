@@ -1,4 +1,4 @@
-# Persian-News-Classificaion
+# Persian-News-Classification
 
 ## Understanding Dataset : 
 
